@@ -14,5 +14,6 @@
   "sr-Cyrl": ["sr"],
   "sr-Latn": ["sr-CS"],
   "sv": ["sv-SE"],
-  "ur": ["ur-PK"]
+  "ur": ["ur-PK"],
+  "fr": ["fr", "fr-CA"]
 }
